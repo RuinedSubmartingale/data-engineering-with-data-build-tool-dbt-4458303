@@ -4,6 +4,7 @@
   "editor.fontLigatures": false,
   "editor.fontSize": 16,
   "notebook.output.fontSize": 12,
+  "notebook.markup.fontSize": 12,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.lineNumbers": "on",
